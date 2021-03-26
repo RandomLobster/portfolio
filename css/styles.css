@@ -1,0 +1,158 @@
+/********************** TAG SELECTORS **********************/
+
+body {
+  margin:0;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin:50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+  font-size:62px;
+  color:#7868e6;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.5rem;
+  margin-top:20px;
+  color:#7868e6;
+  line-height: 2;
+  font-weight:normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#7868e6;
+}
+
+
+a{
+  color:#2b2e4a;
+}
+
+p{
+  color:#40514E;
+}
+
+hr {
+  border-style: dotted none none none;
+  width:6%;
+  border-width: 10px;
+  border-color:#2b2e4a;
+  margin-bottom:100px;
+}
+
+
+/********************** CLASS SELECTORS **********************/
+
+.top-container{
+  position: relative;
+  background-color: #e4fbff;
+  padding-top:100px;
+
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+background-color:#7868e6;
+padding:40px
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.mountain{
+  margin:auto;
+  display: block;
+}
+
+.top-cloud{
+  position: absolute;
+  top:50px;
+  right:200px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top:250px;
+  left:250px;
+}
+
+.profile-picture{
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:200px;
+}
+
+.profile{
+  width: 50%;
+  margin:100px auto 100px auto;
+}
+
+.skill-row {
+  width:50%;
+  margin:120px auto 120px auto;
+  text-align:left;
+  line-height: 2;
+}
+
+.skills-images1{
+  border-radius: 100%;
+  width:25%;
+  float:left;
+  margin-right:30px;
+}
+
+
+.skills-images2{
+  border-radius: 100%;
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+
+
+.pro {
+  text-decoration: underline;
+  font-weight:bold;
+}
+
+
+.btn{
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color:#7868e6;
+}
+
+.contact-me {
+  margin-bottom:100px;
+}
+
+.footer-link{
+margin:10px;
+text-decoration: none;
+}
+
+.copyright-text{
+  color:white;
+}
+
+/********************** ID SELECTORS **********************/
